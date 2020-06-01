@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SquadMobileUI"
+    }
+  },
+  "defaultProject": "SquadMobileUI",
+  "cli": {
+    "analytics": "6618f9fe-7fba-451d-b77a-8b098fb38029"
+  }
 }
